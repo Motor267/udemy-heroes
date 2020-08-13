@@ -6,5 +6,10 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## Notas
 Pueden hacer lo que quieran...
 
-###Github
+### Github
 Cambios realizados en Github
+
+
+Un **gran poder requiere** una gran *responsabilidad*
+> Ben Parker
+
